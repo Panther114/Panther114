@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm GAY</h1>
+<h1 align="center">Hey there, I'm Gavin Yu</h1>
 <h3 align="center">Full Stack Developer | Automation & Agentic Workflow Builder</h3>
 
 ---
