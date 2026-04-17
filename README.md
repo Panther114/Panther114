@@ -18,7 +18,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Gaychat](https://gaychat.up.railway.app) | Encrypted real-time chat service | `Node.js` |
-| [Last Stand](https://laststand.up.railway.app) | Customizable Richup.io clone with full gameplay | `Node.js` |
+| [Gonopoly](https://gono.up.railway.app) | Customizable Richup.io clone with full gameplay | `Node.js` |
 | [PA](https://shsidpa.top) | File upload/view portal for school org | `Node.js` `HTML` |
 | [Whiteboard](https://github.com/Panther114/WhiteBoard-Downloader) | CLI Blackboard content scraper | `TypeScript` |
 | Gay Academy | Flagship AI-agent project (WIP) | `Node.js` `Python` |
