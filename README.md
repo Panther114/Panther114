@@ -15,13 +15,15 @@
 
 ## What I'm Working On
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [GChat](https://gchat.up.railway.app) | Encrypted real-time chat service | `Node.js` `Electron` |
-| [Gonopoly](https://gono.up.railway.app) | Customizable Richup.io clone with full gameplay | `Node.js` |
-| [PA](https://shsidpa.top) | File upload/view portal for school org | `Node.js` `HTML` |
-| [Whiteboard](https://github.com/Panther114/WhiteBoard-Downloader) | CLI Blackboard content scraper | `TypeScript` |
-| [RepoRadar](https://reporadar.up.railway.app) | Flagship Repo Search Project | `Node.js` `Typescript` |
+| Project | Description | Stack | Completion |
+|---------|-------------|-------| ---------- |
+| [Tomahawk](https://tomahawk.up.railway.app) | Modern Sandbox Military Simulator | `Node.js` `Typescript` | Very High |
+| [GChat](https://gchat.up.railway.app) | Encrypted real-time chat service | `Node.js` `Electron` | Very High |
+| [Project Pursuit] | Coming Soon | Coming Soon | Low |
+| [Whiteboard](https://github.com/Panther114/WhiteBoard-Downloader) | CLI Blackboard content scraper | `TypeScript` | Very High |
+| [Gonopoly](https://gono.up.railway.app) | Customizable Richup.io clone with full gameplay | `Node.js` | Medium-High |
+| [PA](https://shsidpa.top) | File upload/view portal for school org | `Node.js` `HTML` | High |
+| [RepoRadar](https://github.com/Panther114/RepoRadar) | Repo Search Project | `Node.js` `Typescript` | Medium |
 
 ---
 
