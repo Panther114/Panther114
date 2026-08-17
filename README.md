@@ -1,5 +1,4 @@
-<h1 align="center">Hey there, I'm Gavin Yu</h1>
-<h1 align="center">你好啊, 我是Gavin!</h1>
+<h1 align="center">Hey there, I'm Gavin Yu <br> 你好啊, 我是Gavin!</h1>
 <h3 align="center">Just a High School Student.</h3>
 
 ---
