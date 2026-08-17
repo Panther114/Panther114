@@ -109,7 +109,7 @@ Electron · Railway · Pygame · encryption
 > **— Jensen Huang**
 
 **「未修此径通远方，何人愿共此风光？」**
-** — 黄仁勋**
+— 黄仁勋
 
 
 </div>
