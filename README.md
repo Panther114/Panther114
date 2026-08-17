@@ -6,7 +6,7 @@
 
 **11th-grade student at SHSID · Developer · Builder**
 
-I build **AI-powered workflows, full-stack applications, scraping tools, and things I find interesting.**
+I build **AI-powered workflows, full-stack applications, scraping tools, and just things I find interesting and useful in general.**
 
 <br>
 
@@ -25,12 +25,6 @@ Focus        AI Agents · Full-Stack Development · Web Scraping
 Languages    Python · TypeScript · JavaScript · SQL
 Currently    Building, experimenting, and shipping
 ```
-
-* Building **AI-powered agentic workflows**
-* Specializing in **web scraping & automation**
-* Developing full-stack applications with **Node.js**
-* Interested in AI systems, developer tooling, and software architecture
-
 ---
 
 ## Featured Projects
