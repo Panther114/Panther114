@@ -7,6 +7,8 @@
 **11th-grade student at SHSID · Developer · Builder**
 
 I build **AI-powered workflows, full-stack applications, scraping tools, and just things I find interesting and useful in general.**
+<br>
+If you notice any errors - such as copyright concerns, missing attributions, or areas for improvement, please submit issues or contact my email. I am just stepping into the open source field, and there are a lot of things that I am yet to fully grasp. Thank you for your understanding.
 
 <br>
 
@@ -95,8 +97,6 @@ Electron · Railway · Pygame · encryption
 
 <div align="center">
 
-### Build first. See where it leads.
-
 <br>
 
 > *"If we don't build it, they can't come."*
@@ -104,6 +104,5 @@ Electron · Railway · Pygame · encryption
 
 **「未修此径通远方，何人愿共此风光？」**
 — 黄仁勋
-
 
 </div>
