@@ -4,7 +4,7 @@
 
 ### 你好，我是 Gavin 👋
 
-**11th-grade student at SHSID · Developer · Builder**
+**11th-grade student at SHSID**
 
 I build **AI-powered workflows, full-stack applications, scraping tools, and just things I find interesting and useful in general.**
 <br>
@@ -13,7 +13,7 @@ If you notice any errors - such as copyright concerns, missing attributions, or 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Panther114-181717?style=for-the-badge\&logo=github)](https://github.com/Panther114)
-[![Email](https://img.shields.io/badge/Email-jinling114%40outlook.com-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:jinling114@outlook.com)
+[![Email](https://img.shields.io/badge/Email-jinling115%40outlook.com-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:jinling115@outlook.com)
 
 </div>
 
@@ -22,10 +22,10 @@ If you notice any errors - such as copyright concerns, missing attributions, or 
 ## About Me
 
 ```text
-Student      11th Grade @ SHSID
+Student      11th Grade @ SHSID, Shanghai
 Focus        AI Agents · Full-Stack Development · Web Scraping
-Languages    Python · TypeScript · JavaScript · SQL
-Currently    Building, experimenting, and shipping
+Languages    Python · TypeScript · JavaScript
+Currently    Doing Stuff
 ```
 ---
 
