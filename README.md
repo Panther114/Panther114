@@ -33,7 +33,8 @@ Currently    Doing Stuff
 
 | Project                                                               | Description                                             | Stack                  |     Status     |
 | :-------------------------------------------------------------------- | :------------------------------------------------------ | :--------------------- | :------------: |
-| **[Weport](https://github.com/Panther114/Weport)**                    | WeChat history exporter & analyzer                      | `Node.js` `Electron`   | 🚧 In Progress |
+| **[Weport](https://github.com/Panther114/Weport)**                    | WeChat history exporter & analyzer                      | `Node.js` `Electron`   | 🚧 In Progress |\
+| **[Blackbox](https://github.com/Panther114/Blackbox)**                | BlackboarddChina Downloader & Agent Skill               | `Typescript` `Electron`   | 🚧 In Progress |
 | **[Tomahawk](https://tomahawk.up.railway.app)**                       | Modern sandbox military simulator                       | `Node.js` `TypeScript` |  🟢 Very High  |
 | **[GChat](https://gchat.up.railway.app)**                             | Encrypted real-time chat service                        | `Node.js` `Electron`   |  🟢 Very High  |
 | **[Prismatic](https://github.com/Panther114/Prismatic)**              | Simple, lightweight music player                        | `Node.js` `Electron`   |   ✅ Finished   |
