@@ -1,10 +1,6 @@
 <div align="center">
 
 # Hi, I'm Gavin
-
-<br>
-If you notice any errors - such as copyright concerns, missing attributions, or areas for improvement, please submit issues or contact my email. I am just stepping into the open source field, and there are a lot of things that I am yet to fully grasp. Thank you for your understanding.
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Panther114-181717?style=for-the-badge\&logo=github)](https://github.com/Panther114)
@@ -22,18 +18,6 @@ Focus        AI Agents · Full-Stack Development · Web Scraping
 Languages    Python · TypeScript · JavaScript
 Currently    Doing Stuff
 ```
----
-
-## GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Panther114&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Panther114&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
 
 ## Featured Projects
 
