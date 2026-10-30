@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi
+# Hi, I'm Gavin
 
 <br>
 If you notice any errors - such as copyright concerns, missing attributions, or areas for improvement, please submit issues or contact my email. I am just stepping into the open source field, and there are a lot of things that I am yet to fully grasp. Thank you for your understanding.
